@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MentorLink</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+<!--    <string name="Registeer">Register</string>-->
+    <string name="click_to_register">Click to Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="profession">Profession</string>
+<!--    <string name="Register">\n</string>-->
+<!--    <string name="register_now">Register Now</string>-->
+    <string name="hourly_rate">Hourly Rate</string>
+    <string name="location_prompt">Select Location</string>
+
+    <string name="experience">Experience</string>
+    <string name="select_image">Select Image</string>
+    <string name="google_maps_key">\n</string>
+    <string name="hi">Hi</string>
+    <string name="username">\n\n</string>
+    <string name="todo" />
+    <string name="main_activity">Main Activity</string>
+    <string name="username_description" />
+    <string name="anonymous">Anonymous</string>
+    <string name="hi_there">Hi there</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="student_name">Student Name:</string>
+    <string name="student_email_is">Student Email is:</string>
+    <string name="student_name_is">Student Name is:</string>
+    <string name="sign_outMentor">Sign out</string>
+    <string name="student_name2">Student Name:</string>
+    <string name="student_email">Student Email:</string>
+    <string name="mentor_name">Mentor Name:</string>
+    <string name="mentor_email">Mentor Email:</string>
+    <string name="mentor_profession">Mentor Profession:</string>
+    <string name="mentor_experience">Mentor Experience:</string>
+    <string name="mentor_hourly_rate">Mentor Hourly Rate:</string>
+    <string name="find_a_mentor">Find a Mentor:</string>
+    <string name="hi2">Hi</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out2">Sign Out</string>
+    <string name="profile2">Profile</string>
+    <string name="sign_out22">Sign Out</string>
+    <string name="category_prompt">\n</string>
+    <string name="subcategory_prompt" />
+
+
+</resources>

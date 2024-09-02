@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="usernameTextView" type="id" />
+    <item name="emailTextView" type="id" />
+    <item name="profilePictureImageView" type="id" />
+    <item name="name" type="id" />
+    <item name="professions" type="id" />
+    <item name="experience" type="id" />
+    <item name="hourly_rate" type="id" />
+    <item name="signOutButton" type="id" />
+    <item name="headerLayout" type="id" />
+    <item name="frame" type="id" />
+    <item name="item_swipe_right_indicator" type="id" />
+    <item name="item_swipe_left_indicator" type="id" />
+    <item name="helloText" type="id" />
+    <item name="editProfileButton" type="id" />
+    <item name="textView" type="id" />
+    <item name="text_view_card_item" type="id" />
+    <item name="studentRecyclerView" type="id" />
+    <item name="mentorListLayout" type="id" />
+    <item name="recyclerView" type="id" />
+
+</resources>

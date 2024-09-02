@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="placeholder_image" />
+    <drawable name="image_border" />
+    <drawable name="card_background" />
+    <drawable name="default_profile_image" />
+</resources>
